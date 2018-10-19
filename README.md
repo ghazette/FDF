@@ -1,5 +1,5 @@
-# FDF
-Projet fdf (fil de fer) mesh en fil de fer basique en 3D
+# FdF
+Projet FdF (Fil de Fer) mesh basique en 3D
 
 ## Objectif FdF
 
