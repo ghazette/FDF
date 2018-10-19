@@ -45,7 +45,7 @@ make
        <td>Effectue un Dezoom</td>
    </tr>
    <tr>
-       <td>SCROLL DOWN-</td>
+       <td>SCROLL DOWN</td>
        <td>Effectue un Zoom</td>
    </tr>
    <tr>
